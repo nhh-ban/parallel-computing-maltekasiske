@@ -5,7 +5,7 @@ The assignments in BAN400 are organized through Github and Github Classroom. By 
 
 **Name: Malte Kasiske**
 
-**Student number: s321719**
+**Student number: s231719**
 
 ## :information_source: Problem 1
 Update the personal information above.
